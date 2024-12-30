@@ -1,7 +1,7 @@
 [
     {
         "UpdateStageName": "Synergy Download",
-        "UpdateSourcePlatform": "Linux",
+        "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "17522",
         "UpdateSourceArgs": "17525",
@@ -12,7 +12,7 @@
     },
     {
         "UpdateStageName": "Half-life 2 Download",
-        "UpdateSourcePlatform": "Linux",
+        "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "220",
         "UpdateSourceArgs": "220",
@@ -23,7 +23,7 @@
     },
     {
         "UpdateStageName": "Episode 1 Download",
-        "UpdateSourcePlatform": "Linux",
+        "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "380",
         "UpdateSourceArgs": "380",
@@ -34,7 +34,7 @@
     },
     {
         "UpdateStageName": "Episode 2 Download",
-        "UpdateSourcePlatform": "Linux",
+        "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "420",
         "UpdateSourceArgs": "420",
